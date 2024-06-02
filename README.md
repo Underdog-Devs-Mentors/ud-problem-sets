@@ -1,4 +1,4 @@
-# ud-mentee-problems
+# ud-problem-sets
 
 These practice problems are intended to help mentees of the [Underdog Devs](https://www.underdogdevs.org/) program get intro software engineering problems.
 
