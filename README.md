@@ -61,7 +61,7 @@ Then get started on [the first problem set](./problem-set-1/)!
 Make sure to check out these resources in [our mentee Drive](https://docs.google.com/document/d/12sBrnNVZtFiUEZJoFdNS4zhsVVq8EyiN2pGQziBWT1Y/edit)!
 
 - [Building healthy habits](https://docs.google.com/document/d/1-ICPKJjM4BPWwFYcv2nS9lq5aoe4Y8r53h3xoKcxObU/edit?usp=sharing) – Some habits that we recommend that you have to be successful in this endeavor.
-- [Problem solving tips & tips for getting help](https://docs.google.com/document/d/1gkCd_7AyDgB28Cn8dz0LyFhctxCwuXTed4K-rbl-bZ4/edit?usp=sharing) – This document is key! We recommend coming back to this doc regularly, even having it open as you go through - problems.
+- [Problem solving tips & tips for getting help](https://docs.google.com/document/d/1gkCd_7AyDgB28Cn8dz0LyFhctxCwuXTed4K-rbl-bZ4/edit?usp=sharing) – This document is key! We recommend coming back to this doc regularly, even having it open as you go through problems.
 - [General interviewing tips](https://docs.google.com/document/d/1QkJPrEcldpyYYCG_abqeHne-XavoXGg9e0F8zkxUruA/edit?usp=drive_link) – Tips to keep in mind in every mentoring session and interview that you get.
 - [Live-coding interview tips](https://docs.google.com/document/d/1LXZNoBzbN5FaYTHmt7-XiSb8g-VSLkOe4H7_CG-spOU/edit?usp=drive_link) – Tips to keep in mind while writing code live with someone else.
 - [Data structures and algorithms resources](https://docs.google.com/document/d/1HCjrIVxpLsnmLVznLm37p_r_phLr0pcTxbN43YMc8pk/edit?usp=sharing) – Master algorithms interviews by mastering these resources!
