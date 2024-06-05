@@ -62,6 +62,8 @@ Then get started on [the first problem set](./problem-set-1/)!
 
 Make sure to check out these resources in [our mentee Drive](https://docs.google.com/document/d/12sBrnNVZtFiUEZJoFdNS4zhsVVq8EyiN2pGQziBWT1Y/edit)!
 
+- [UD Mentee Drive README](https://docs.google.com/document/d/12sBrnNVZtFiUEZJoFdNS4zhsVVq8EyiN2pGQziBWT1Y/edit?usp=sharing) - Provides an overview of the UnderdogDevs process.
+- [Mentee levels and requirements](https://docs.google.com/document/d/1AetpxG4ZLQPtU124nD5Pu8IxvSzw4KVI2hOtayFRifc/edit?usp=sharing) - How UD characterizes mentee's abilities and what we require of mentees.
 - [Building healthy habits](https://docs.google.com/document/d/1-ICPKJjM4BPWwFYcv2nS9lq5aoe4Y8r53h3xoKcxObU/edit?usp=sharing) – Some habits that we recommend that you have to be successful in this endeavor.
 - [Problem solving tips & tips for getting help](https://docs.google.com/document/d/1gkCd_7AyDgB28Cn8dz0LyFhctxCwuXTed4K-rbl-bZ4/edit?usp=sharing) – This document is key! We recommend coming back to this doc regularly, even having it open as you go through problems.
 - [General interviewing tips](https://docs.google.com/document/d/1QkJPrEcldpyYYCG_abqeHne-XavoXGg9e0F8zkxUruA/edit?usp=drive_link) – Tips to keep in mind in every mentoring session and interview that you get.
@@ -82,4 +84,4 @@ Make sure to check out these resources in [our mentee Drive](https://docs.google
 
 ### Practice problem attribution
 
-We sourced data from [this list](https://github.com/jdorfman/awesome-json-datasets) and [this article](https://towardsdatascience.com/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a). Some of the problems came from [Harvard's CS50 course](https://computersciencewiki.org/index.php/Problem_Sets). Others were found in various places online or created by mentors at UnderdogDevs.
+We sourced some data from [this list](https://github.com/jdorfman/awesome-json-datasets) and [this article](https://towardsdatascience.com/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-74f2eb53b38a). Some of the problems came from [Harvard's CS50 course](https://computersciencewiki.org/index.php/Problem_Sets). Others were found in various places online or created by mentors at UnderdogDevs.
