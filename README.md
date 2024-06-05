@@ -18,15 +18,17 @@ We strongly recommend not using outside sources until after you've successfully 
 
 We recommend the following order:
 
-1. [problem-set-1](./problem-set-1/) - More basic problems to help prepare you for the wordplay problems.
-2. [wordplay-problems](./wordplay-problems/) - These are the ones you need to successfully complete in order to try and get into the UnderdogDevs cohort.
-3. [problem-set-2](./problem-set-2/) - This and the later steps are usually used as material during the UnderdogDevs cohort.
-4. [problem-set-3](./problem-set-3/)
-5. [basic-applications](./basic-applications) - These problems can optionally include some UI if you want to.
-6. [mini-interview-questions](./mini-interview-questions/) - Real 30 minute interview problems.
-7. [interview-questions](./interview-questions/) - 60 minute interview questions
-8. [advanced-topics](./advanced-topics/) - Miscellaneous topics that would be good to learn more about.
-9. [hard-interview-questions](./hard-interview-questions/) - These interview questions are probably harder than you can expect for an intro software engineer position. But they're good practice!
+1. [problem-set-1](./problem-set-1/) (Beginner level) - More basic problems to help prepare you for the wordplay problems.
+2. [wordplay-problems](./wordplay-problems/) (Beginner level) - These are the ones you need to successfully complete in order to try and get into the UnderdogDevs cohort.
+3. [problem-set-2](./problem-set-2/) (Intermediate level) - This and the later steps are usually used as material during the UnderdogDevs cohort.
+4. [problem-set-3](./problem-set-3/) (Intermediate level)
+5. [basic-applications](./basic-applications) (Intermediate level) - These problems can optionally include some UI if you want to.
+6. [mini-interview-questions](./mini-interview-questions/) (Intermediate level) - Real 30 minute interview problems.
+7. [interview-questions](./interview-questions/) (Interview Ready level) - 60 minute interview questions
+8. [advanced-topics](./advanced-topics/) (Interview Ready level) - Miscellaneous topics that would be good to learn more about.
+9. [hard-interview-questions](./hard-interview-questions/) (Interview Ready level) - These interview questions are probably harder than you can expect for an intro software engineer position. But they're good practice!
+
+After you've eventually completed these, we recommend spending most of your time working on your [resume](https://docs.google.com/document/d/1p2HyB0mjIOD9Zf0UYBM_HMyySDEep6z7aU46njdKvCM/edit?usp=sharing), your LinkedIn profile, and [finding jobs to apply to](https://docs.google.com/document/d/1ZpBAtFho96hliezYHNw5C4-_AUg_xJtHkcXn6HqGS9Y/edit?usp=sharing). You can also practice other interview types, like [soft skills interviews](https://docs.google.com/document/d/1hHBrbjUU0PWDH3ioIwcaFuhmtDMPftwgj2QcTcJlv6w/edit?usp=drive_link), debugging interviews, take-home interviews, UI breakdown interviews, and system design interviews. For more info and practice for these other interview types, ask your mentor.
 
 ## How to get started
 
