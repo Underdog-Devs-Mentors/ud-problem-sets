@@ -16,7 +16,7 @@ Write a program to calculate the sum of the digits of the provided number using 
 
 Write a program to find those numbers which are divisible by 7 and of 5, between 1500 and 2700 inclusive.
 
-(challenge) Make this program generic to handle any amount of numbers to be passed in instead of just 7 and 5.
+(challenge) Make this program generic to handle a range and any amount of numbers to check for divisibility be passed in instead of just 7 and 5. 
 
 ## Powers
 
