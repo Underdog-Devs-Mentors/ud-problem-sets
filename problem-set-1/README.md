@@ -6,7 +6,7 @@ Write a function to find the product (multiplication) of two given numbers only 
 
 ## Modulo
 
-Write a function that calculates the modulo (remainder - usually `%`) of a number divided by another number without using your language's modulo operator itself. For example, `mod(137, 10)` should result in 7 and `mod(15, 4)` should result in 3.
+Write a function that calculates the modulo (remainder - usually `%`) of a number divided by another number without using your language's modulo operator itself or your language's division operator. For example, `mod(137, 10)` should result in 7 and `mod(15, 4)` should result in 3.
 
 ## Sum
 
