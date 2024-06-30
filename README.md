@@ -12,7 +12,7 @@ These problems are where you should be spending most of your time. Don't stress 
 
 Put your solution file(s) in the `solutions` directory of each problem set. You can delete the `.placeholder` file that's in the directory.
 
-We strongly recommend not using outside sources until after you've successfully solved a problem. That's not to say you can't look up syntax, but we don't recommend looking up how to approach a problem or possible solutions for it until you've successfully solved it yourself. It will only slow your progress by relying on outside resources to be able to solve problems.
+We strongly recommend not using outside sources until after you've successfully solved a problem. That's not to say you can't look up syntax, but we don't recommend looking up how to approach a problem or possible solutions for it until you've successfully solved it yourself. It will only slow your progress by relying on outside resources to be able to solve problems. If you run into something you can't solve, please ask in the UD Slack channels and get some tips from others that way!
 
 ## The order of the material
 
@@ -38,7 +38,7 @@ To download it, you can either use git or download the ZIP file.
 
 ### Using git
 
-This is our recommended way, but if you'd like to jump right into problem solving or run into troubles you can always go the ZIP route and then set up git later.
+> This is our recommended way, but if you'd like to jump right into problem solving or run into troubles you can always go the ZIP route and then set up git later.
 
 git is a version management system which is used in basically every software engineering job. To learn more about it, see [TheCodingTrain's series on git and GitHub](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV). The main video is [cloning a repo](https://www.youtube.com/watch?v=yXT1ElMEkW8).
 
@@ -46,7 +46,7 @@ Go ahead and clone this repo!
 
 ### Using a ZIP file
 
-If you got the repo downloaded using git, skip this section.
+> If you got the repo downloaded using git, skip this section.
 
 First download the ZIP file by scrolling to the top of [this page](https://github.com/ZachSaucier/ud-problem-sets), clicking "Code", then clicking "Download ZIP".
 
