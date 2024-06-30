@@ -28,6 +28,8 @@ We recommend the following order:
 8. [advanced-topics](./advanced-topics/) (Interview Ready level) - Miscellaneous topics that would be good to learn more about.
 9. [hard-interview-questions](./hard-interview-questions/) (Interview Ready level) - These interview questions are probably harder than you can expect for an intro software engineer position. But they're good practice!
 
+If you're looking for additional practice problems to strengthen a certain concept, [LeetCode](https://leetcode.com/) is a good resource. You can filter by question tags to see more relevant questions to what you want to focus on. There's also [other algorithms practice sites](https://docs.google.com/document/d/19W-Wj8RflO7RPQhx8bwJ9NUrfrX-GFcSHqfIa3ZGPxQ/edit?usp=drive_link) you could use.
+
 After you've eventually completed these, we recommend spending most of your time working on your [resume](https://docs.google.com/document/d/1p2HyB0mjIOD9Zf0UYBM_HMyySDEep6z7aU46njdKvCM/edit?usp=sharing), your LinkedIn profile, and [finding jobs to apply to](https://docs.google.com/document/d/1ZpBAtFho96hliezYHNw5C4-_AUg_xJtHkcXn6HqGS9Y/edit?usp=sharing). You can also practice other interview types, like [soft skills interviews](https://docs.google.com/document/d/1hHBrbjUU0PWDH3ioIwcaFuhmtDMPftwgj2QcTcJlv6w/edit?usp=drive_link), debugging interviews, take-home interviews, UI breakdown interviews, and system design interviews. For more info and practice for these other interview types, ask your mentor.
 
 ## How to get started
